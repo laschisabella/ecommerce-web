@@ -1,10 +1,10 @@
 import { GlobalStyle } from './globalstyle'
-import SingleProduct from './pages/SingleProduct'
+import Cart from './pages/Cart'
 
 export default function App() {
   return (
     <div>
-      <SingleProduct />
+      <Cart />
       <GlobalStyle />
     </div>
   )
